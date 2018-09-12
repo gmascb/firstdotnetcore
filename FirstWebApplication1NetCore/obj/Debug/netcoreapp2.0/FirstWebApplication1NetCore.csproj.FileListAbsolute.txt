@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\bin\Debug\netcoreapp2.0\FirstWebApplication1NetCore.deps.json
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\bin\Debug\netcoreapp2.0\FirstWebApplication1NetCore.runtimeconfig.json
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\bin\Debug\netcoreapp2.0\FirstWebApplication1NetCore.runtimeconfig.dev.json
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\bin\Debug\netcoreapp2.0\FirstWebApplication1NetCore.dll
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\bin\Debug\netcoreapp2.0\FirstWebApplication1NetCore.pdb
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\obj\Debug\netcoreapp2.0\FirstWebApplication1NetCore.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\obj\Debug\netcoreapp2.0\FirstWebApplication1NetCore.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\obj\Debug\netcoreapp2.0\FirstWebApplication1NetCore.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\obj\Debug\netcoreapp2.0\FirstWebApplication1NetCore.AssemblyInfo.cs
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\obj\Debug\netcoreapp2.0\FirstWebApplication1NetCore.dll
+C:\Users\pc\source\repos\FirstWebApplication1NetCore\FirstWebApplication1NetCore\obj\Debug\netcoreapp2.0\FirstWebApplication1NetCore.pdb
