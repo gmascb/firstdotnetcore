@@ -26,12 +26,14 @@ namespace FirstWebApplication1NetCore
         app.UseDeveloperExceptionPage();
       }
 
+      app.UseStatusCodePages();
+
       app.UseMvc();
 
-      app.Run(async (context) =>
-      {
-        await context.Response.WriteAsync("Hello World!");
-      });
+      //app.Run(async (context) =>
+      //{
+      //  await context.Response.WriteAsync("Hello World!");
+      //});
     }
   }
 }
