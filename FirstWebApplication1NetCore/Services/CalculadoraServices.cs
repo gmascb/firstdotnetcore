@@ -9,7 +9,7 @@ namespace FirstWebApplication1NetCore.Services
   {
     public decimal Calcula(decimal valorinicial, double meses)
     {
-      double resultCalc = (double)valorinicial * Math.Pow(1, meses);
+      double resultCalc = (double)valorinicial * Math.Pow(1.01, meses);
 
       return (decimal)Math.Truncate(100 * resultCalc) / 100;
     }

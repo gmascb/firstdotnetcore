@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 
 namespace FirstWebApplication1NetCore.Controllers
 {
-  //[Route("api/calculajuros")]
+  [Route("api/calculajuros")]
   public class CalculadoraController : Controller
   {
     private CalculadoraServices Service;
